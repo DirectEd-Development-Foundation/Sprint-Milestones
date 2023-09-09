@@ -111,7 +111,7 @@ Individual student progression is primarily determined by the outcome of the ora
 Regardless of the group project result, a student can progress if they demonstrate sufficient understanding and competency during the oral exam.
 
 ## Capstone Project (Module 5):
-Students who make it to module 5 will be required to individually deliver on a capstone project of their choice following strict guidelines documented [here](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
+Students who make it to module 5 will be required to individually deliver on a capstone project of their choice following strict guidelines documented [here](https://docs.google.com/document/d/1LY0KqST6tLOalIV0WjESWGhsp1go1jQ9BpNQpBW3ryU/edit).
 
 The student, is then evaluated based on the project's overall score, and the Oral Exam Score.
 
