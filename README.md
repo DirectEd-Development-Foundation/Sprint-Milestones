@@ -34,7 +34,7 @@ The rubrics cover various aspects such as code quality, functionality, documenta
 
 The rubrics for oral exams are designed to assess the student's understanding, comprehension, and ability to articulate the concepts and decisions made in their project.
 
-The rubrics are developed in alignment with the learning objectives and assessment goals of the module or course.
+The rubrics are developed in alignment with the learning objectives and assessment goals of the module or course as a whole.
 
 - Evaluation Criteria:
 
@@ -49,7 +49,7 @@ The examiner evaluates the student's performance during the oral exam based on t
 - Contribution to Final Evaluation:
 
 The scores obtained from the oral exams, as per the rubrics, contribute significantly to the final evaluation of the student's performance.
-The oral exam scores are factored in along with the project scores to determine individual student progression within the module.
+The oral exam scores are factored in along with the project scores to determine individual student progression within the module(sprint).
 
 ## Grading Process:
 ### 3.1 Examiner Evaluation:
@@ -63,7 +63,9 @@ The examiner compares the work against the rubrics to assess its compliance with
 
 The minimum passing grade for each project is 80% according to the rubric.
 
-If the project's overall score falls below 80%, the project will be considered a failure.
+If the project's overall score falls below 80%, the project will be considered a failure. 
+
+*Note: All students are eligible for project resubmission if their initial project submission received a score below the minimum threshold specified for the module(sprint).*
 
 ## Oral Exams:
 ### 5.1 Purpose:
@@ -80,34 +82,52 @@ The oral exam evaluates the student's knowledge, comprehension, and ability to a
 
 The oral exam contributes significantly to the final evaluation of the student's performance.
 
+*Note: Students who score below the minimum threshold of 3/4 in the oral exam are allowed to sit for a retake. To be eligible for this, they have to score at least 2/4. Any score below this is considered a failure.*
+
+# Projects:
+
+## Individual Projects (Module 1):
+### 6.1 Individual Evaluation:
+Module 1 projects are completed individually by all students.
+
+The projects are evaluated based on the project's overall score, as per the rubric, and then followed up by an oral exam as explained above.
+
+
 ## Group Projects (Module 2-4):
 ### 6.1 Group Evaluation:
 Module 2-4 projects are completed in groups of four students.
 
-The group, as a whole, is evaluated based on the project's overall score, which is calculated by considering the individual scores of each group member.
+The group, as a whole, is evaluated based on the project's overall score, which is calculated by considering the individual contribution of each group member.
 
 ### 6.2 Pass/Fail as a Group:
 
 The group project is considered a pass if the project's overall score meets or exceeds the minimum passing grade of 80%.
-If the project's overall score falls below 80%, the group project will be considered a failure.
+
+If the project's overall score falls below 80%, the group project will be considered a failure and will be required to make a resubmission.
 
 ## Individual Progression:
 ### 7.1 Oral Exam Importance:
 Individual student progression is primarily determined by the outcome of the oral exam.
 Regardless of the group project result, a student can progress if they demonstrate sufficient understanding and competency during the oral exam.
 
+## Capstone Project (Module 5):
+Students who make it to module 5 will be required to individually deliver on a capstone project of their choice following strict guidelines documented [here](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
+
+The student, is then evaluated based on the project's overall score, and the Oral Exam Score.
 
 # Sources
 
 ## Link to Assessments
 - [Module 1 - 4 Assessments](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
 
+- [Module 5 - Capstone Project](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
+
 ## Link to Rubrics
-- [Module 1 - 4 project and Oral Exam Rubrics](https://docs.google.com/spreadsheets/d/1Fwbw8OaHAQpvQioeO4UVR7HjULNCvViibnjxsSPLfUQ/edit#gid=530943480).
+- [Module 1 - 5 project and Oral Exam Rubrics](https://docs.google.com/document/d/1LY0KqST6tLOalIV0WjESWGhsp1go1jQ9BpNQpBW3ryU/edit?usp=sharing).
 
 
 ## Link to Submissions:
-- Module 1 - 4 Submissions [Module 1-4 Assessment](https://docs.google.com/spreadsheets/d/17GzBdbk-fNt9m_tamcYP_ydHIBgWVVqXFz5zcHCA89I/edit?resourcekey#gid=448727338).
+- Module 1 - 5 Submissions [Module 1-5 Assessment](https://docs.google.com/spreadsheets/d/17GzBdbk-fNt9m_tamcYP_ydHIBgWVVqXFz5zcHCA89I/edit?resourcekey#gid=448727338).
 
 - Link to ScoreBoard - [ScoreBoard](https://docs.google.com/spreadsheets/d/1t6a4yoMaxZyOOfXLg8IFdJyxmP7oSp5RLrrS4sG6EFE/edit?usp=sharing).
 
