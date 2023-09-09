@@ -120,7 +120,7 @@ The student, is then evaluated based on the project's overall score, and the Ora
 ## Link to Assessments
 - [Module 1 - 4 Assessments](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
 
-- [Module 5 - Capstone Project](https://drive.google.com/drive/folders/1jx656xc93Or572T2chR9jSX8BBe4CYcZ).
+- [Module 5 - Capstone Project](https://docs.google.com/document/d/1LY0KqST6tLOalIV0WjESWGhsp1go1jQ9BpNQpBW3ryU/edit).
 
 ## Link to Rubrics
 - [Module 1 - 5 project and Oral Exam Rubrics](https://docs.google.com/document/d/1LY0KqST6tLOalIV0WjESWGhsp1go1jQ9BpNQpBW3ryU/edit?usp=sharing).
